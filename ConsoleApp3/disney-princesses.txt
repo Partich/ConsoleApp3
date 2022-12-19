@@ -1,0 +1,5 @@
+1 | Snow White | 14 | Black | Brown
+2 | Cinderella | 19 | Blonde | Blue
+3 | Aurora | 16 | Blonde | Violet
+4 | Ariel | 16 | Red | Blue
+6 | Jasmine | 16 | Black | Brown
